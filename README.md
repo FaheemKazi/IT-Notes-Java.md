@@ -1,10 +1,11 @@
 # JAVA
-### Class : Contain properties and behaviour of an object.
-## Java OOPS Concept : 
+#### Class : 
+Contain properties and behaviour of an object.
+#### Java OOPS Concept : 
 Object oriented programming is a methodlogied or paradigm (namoona) to design a program using class and objects.
-### Object :
+#### Object :
 Real world entities has their own properties and behaviour.
-## Classes :
+#### Classes :
 Blue print from which an object properties and behaviour 
                       
   1) Inheritence.
